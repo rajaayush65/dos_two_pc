@@ -1,1 +1,7 @@
-# dos_two_pc
+#Open Project in Eclipse
+
+Run Server
+
+Run Coordinator
+
+Run Multiple Participants
